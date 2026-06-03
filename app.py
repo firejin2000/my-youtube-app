@@ -46,7 +46,7 @@ st.markdown("""
     
     /* 검색창 내부 입력 글자 색상 */
     div.stTextInput input {
-        color: #ffffff !important;
+        color: #000000 !important;
         font-size: 1.1rem !important;
     }
     
