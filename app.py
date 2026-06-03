@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 from datetime import datetime
 
 # 1. 페이지 기본 레이아웃 및 타이틀 설정
-st.set_page_config(page_title="MOONSUGOD PLATFORM", page_icon="⚡", layout="wide")
+st.set_page_config(page_title="문수갓 알고리즘", page_icon="⚡", layout="wide")
 
 # 2. 밋밋한 화면을 화려하게 바꿔주는 네온 다크 CSS 테마 코드
 st.markdown("""
