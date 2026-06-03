@@ -86,7 +86,7 @@ st.markdown('<p class="neon-subtitle">moonsugod.kro.kr | Real-time YouTube Engin
 
 # 4. 유튜브 API 연동 함수 정의
 # ⚠️ 주의: 본인의 YouTube API KEY를 아래 따옴표 안에 정확하게 입력하셔야 작동합니다!
-YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY_HERE"
+YOUTUBE_API_KEY = "AIzaSyAktdLVvq7o4P6fzHyDf8Ep_TdoMyrK9og"
 
 def youtube_search(query):
     try:
